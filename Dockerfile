@@ -1,5 +1,4 @@
 FROM alpine:edge
-
 ARG AUUID="b44575bc-3295-4af9-828f-a2812598546c"
 ARG CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page282/pro.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
